@@ -13,6 +13,9 @@ body {
         "Trebuchet MS", sans-serif;
     font-weight: 500;
     background: #000;
+    background-image: url("https://cdn.leonardo.ai/users/3698f2bf-2b21-4c3e-96eb-0323de320c07/generations/e3d03924-dedd-43cb-b05e-74448067e75e/Default_sunset_sky_with_different_type_of_airplanes_3.jpg"); 
+    background-size: 50% 50%;
+    background-position: center;
 }
 
 .bg {
@@ -190,7 +193,4 @@ footer {
     position: fixed;
     bottom: 0;
     right: 0;
-    left: 0;
 }
-
-
