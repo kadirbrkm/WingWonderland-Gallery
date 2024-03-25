@@ -1,0 +1,36 @@
+1-You need to create a simple HTML template for a website. This template will represent an aviation gallery site called "Wingwonderland". What the template should contain:
+- A title tag (<h1>) containing a title.
+- A <div> element containing a gallery section. This gallery section should contain a series of aircraft images (e.g. Airbus A380, F-35, Boeing 777) and text below each image with its name and a brief description. There should also be a "Learn More" link under each image.
+- A <footer> element containing a footer section. Footer must contain a copyright notice.
+- Appropriate links pointing to required CSS and JavaScript files.
+Accordingly, write the HTML code that will create this template.
+
+2-You need to create CSS file for this website. This CSS file will represent an aviation gallery site called "Wingwonderland" and will edit the appearance of the gallery. CSS file should contain:
+- Basic styles to be used throughout the page (body, html, etc.).
+- Custom styles for gallery section (box, img, h1, p, a, etc.).
+- Appropriate styles for different screen sizes via media queries.
+- Details such as centering the content, determining colors and adding transition effects.
+Accordingly, write a prompt that will create this CSS file.
+
+3-You need to create an interactive gallery for this website. This gallery should have the ability to rotate airplane images and move the image by reacting to the user's mouse movements. Must contain JavaScript code:
+- Code required to select the boxes containing pictures of airplanes.
+- Code to update the rotation and display position of each box by listening to mouse movements.
+- Code that returns the picture and the box to their original position when the mouse leaves the box.
+- Code that will perform the necessary calculations and style manipulations for the code to run.
+Accordingly, write a prompt that will generate this JavaScript code.
+
+For Images:
+1- Airbus A380
+2-Airbus A350 in rainy weather
+3-Aero L-39 Albatros
+4-Antonov an 225 about to board
+5-F-35 in the air
+6-5th Generation aircraft
+7-Boeing 777-300 ER in the clear sky
+8-Lockheed F-117 Nighthawk about to fight
+9-F-16 in snowy weather
+10-F-14 in storm
+11-Airbus A320 and sunset
+12-Airbus A310 MRTT cargo plane
+13-CL-215 firefighting aircraft
+14-Boeing 737-800
