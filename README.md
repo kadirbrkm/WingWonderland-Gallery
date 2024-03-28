@@ -2,7 +2,8 @@
 <p align="center">
   <h3 align="center">WingWonderland-Gallery</h3>
 
-  <img src="C:\Users\kadir\Downloads\Screenshot 2024-03-28 232752.png" alt="Ekran Görüntüsü">
+  ![Ekran Görüntüsü](https://raw.githubusercontent.com/kadir/depoadi/main/Screenshot%202024-03-28%20232752.png)
+
 
   <p align="center">
     The Project was Created for Aygaz & Global AI HUB GenAI Bootcamp
